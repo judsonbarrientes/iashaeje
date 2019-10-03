@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theewaeph.otis.news/sitemap.xml
